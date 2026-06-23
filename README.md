@@ -1,8 +1,7 @@
 # Olá, mundo!
 
 Desenvolvedor Web & Mobile com mais de 3 anos de experiência profissional, 
-atuando em projetos que vão desde sistemas empresariais até plataformas de 
-análise de audiência e performance de mídia.
+atuando em projetos que vão desde sistemas empresariais até plataformas web de grande escala
 
 Tenho experiência com todo o ciclo de desenvolvimento de aplicações, desde 
 a interface até o banco de dados, tanto no ambiente web quanto mobile.
